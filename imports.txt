@@ -1,0 +1,4 @@
+******Requirements to run the program******
+
+pip install Pillow
+
